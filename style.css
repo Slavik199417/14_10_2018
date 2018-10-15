@@ -1,0 +1,31 @@
+.list1 {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+.list2 {
+	list-style-image: url(); /*для картинок вмечто стандартных точек*/
+}
+
+.vid {
+	border: 1px solid #ccc;
+	width: 600px;
+	height: 500px;
+	float: left;
+}
+
+.all {
+	width: 900px;
+	background: #eee;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.third {
+	width: 270px;
+	height: 500px;
+	background: #999;
+	float: right;
+}
+
+
